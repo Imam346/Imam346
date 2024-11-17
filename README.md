@@ -4,7 +4,8 @@
 #### I'm a Learner and Problem Solver!!
 
 
-I'm a problem solver with a passion for it. I love learning and sharing my knowledge with others as openly as possible. Solving real-world problems is my forte.
+I'm a problem solver with a passion for it. I love learning and sharing my knowledge with others as openly as possible.
+Solving real-world problems is my forte.
 
 Skills: C / C++
 
