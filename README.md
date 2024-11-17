@@ -1,23 +1,17 @@
-![I'm a Learner and Problem Solver!!](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-1/463542555_1126274109199258_30056950133417706_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHjKjU49pvITg3gmJlRdvsfJVOLNptH6v0lU4s2m0fq_SNNkzHqLHoTXMjKU_0ibsh93_x19RSf_65p15wSXO6I&_nc_ohc=YWvePRiqoI8Q7kNvgFK70zI&_nc_zt=24&_nc_ht=scontent.fdac13-1.fna&_nc_gid=Ax89b-ALNaTrnjTwPzHoT3H&oh=00_AYAA_UtN2WBelUslV7WmVGHx5m0wmAxAQzBov-cgrWKUEw&oe=673F9E63)
+<h1 align="center">Hi there 👋, I'm Md Imam Hasan</h1>
+<h3 align="center">I'm a Learner and Problem Solver!!</h3>
 
-### Hi there 👋, I'm Md Imam Hasan
-#### I'm a Learner and Problem Solver!!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/imamhasan369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamhasan369" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/imam346" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imam346" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/imam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imam346" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imam346" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-I'm a problem solver with a passion for it. I love learning and sharing my knowledge with others as openly as possible.
-Solving real-world problems is my forte.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imam346&show_icons=true&locale=en&layout=compact" alt="imam346" /></p>
 
-Skills: C / C++
-
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Problem Solving 
-- 📫 How to reach me: info.imamhasan346@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imam346)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imamhasan369)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imam346)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imam346&show_icons=true&count_private=true)  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imam346&show_icons=true&locale=en" alt="imam346" /></p>
