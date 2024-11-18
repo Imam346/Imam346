@@ -24,6 +24,5 @@
 
 <br><!-- newline -->
 
-<h3 align="left">⚡GitHub Stats</h3>
-<br><!-- newline -->
+<!-- <h3 align="left">⚡GitHub Stats</h3> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=imam346&theme=algolia&show_icons=true)](https://github.com/imam346)
