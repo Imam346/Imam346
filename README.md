@@ -28,3 +28,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=imam346&theme=algolia&show_icons=true)](https://github.com/imam346)
+
+[![Md Imam Hasan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=imam346&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/imam346)
