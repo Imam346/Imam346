@@ -21,9 +21,9 @@
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0"> --> 
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Imam346/cf-stats/main/output/max_rating.svg)
 <br>
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/Imam346/cf-stats/main/output/rating.svg)
 <br>
 ![](https://raw.githubusercontent.com/imam346/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
