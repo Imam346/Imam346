@@ -1,11 +1,38 @@
 <h1 align="center">Hi there 👋, I'm Md Imam Hasan</h1>
 <h3 align="center">I'm a Learner and Problem Solver!!</h3>
 
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom White Bullets</title>
+    <style>
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            position: relative;
+            padding-left: 1.2em;
+        }
+        ul li::before {
+            content: "\2022"; 
+            position: absolute;
+            left: 0;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+</body>
+</html>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam346&label=Profile%20views&color=0e75b6&style=flat" alt="imam346" /> </p>
 
