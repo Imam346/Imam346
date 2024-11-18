@@ -24,6 +24,4 @@
 
 <br><!-- newline -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imam346&show_icons=true&locale=en" alt="imam346" /></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=imam346&theme=algolia&show_icons=true)](https://github.com/imam346)
