@@ -1,8 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Md Imam Hasan</h1>
 <h3 align="center">I'm a Learner and Problem Solver!!</h3>
 
-<ul style="list-style: none; padding: 0;"> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"> 🥅 </span> Coffee </li> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"></span> Tea </li> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"></span> Milk </li> </ul>
+<ul style="list-style: none; padding: 0;"> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"> 🥅 </span> 2024 Goals: To Solve 500+ problems on Codeforces </li> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"></span> Tea </li> <li style="position: relative; padding-left: 1.2em;"> <span style="position: absolute; left: 0; color: white;"></span> Milk </li> 
+</ul>
 
+<ul>
+  <li>• 🥅 2025 Goals: To become a specialist on CF</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam346&label=Profile%20views&color=0e75b6&style=flat" alt="imam346" /> </p>
 
