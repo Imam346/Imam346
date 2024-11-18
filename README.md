@@ -5,7 +5,7 @@
 </ul>
 
 <ul>
-  <li>• 🥅 2025 Goals: To become a specialist on CF</li>
+  <li> 🥅 2025 Goals: To become a specialist on CF</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam346&label=Profile%20views&color=0e75b6&style=flat" alt="imam346" /> </p>
