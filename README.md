@@ -4,7 +4,7 @@
 <br><!-- newline -->
 <ul>
   <li> 🥅 2024 Goals: To Solve 500+ problems across various online judges (Done)</li>
-  <li> 🥅 2025 Goals: To become a Specialist on Codeforces</li>
+  <li> 🥅 2025 Goals: To become a pupil on Codeforces</li>
 </ul>
 <br><!-- newline -->
 
