@@ -71,10 +71,6 @@ Here are the primary tools and technologies I work with:
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
     </td>
         <td align="center" width="96">
         <img src="https://github.com/Imam346/Imam346/blob/main/img/sql.gif" width="48" height="48" alt="jquery" />
