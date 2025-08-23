@@ -103,3 +103,28 @@ Here are the primary tools and technologies I work with:
 ### 🌱 My Learning Goals
 - **🥅 2024 Goals:** To Solve 500+ problems across various online judges (Done)
 - **🥅 2025 Goals:** To become a pupil on Codeforces
+---
+
+### 📊 My GitHub Analytics
+<p align="center">
+  <a href="https://github.com/Imam346">
+    <img alt="Imam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Imam346&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Imam346/">
+    <img alt="Imam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imam346&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Imam346/">
+    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Imam346&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Imam346">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Imam346&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+  </a>
+</p>
+
+---
+
