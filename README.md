@@ -1,42 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Md Imam Hasan</h1>
-<h3 align="center">I'm a Learner and Problem Solver!!</h3>
 
-<br><!-- newline -->
-<ul>
-  <li> 🥅 2024 Goals: To Solve 500+ problems across various online judges (Done)</li>
-  <li> 🥅 2025 Goals: To become a pupil on Codeforces</li>
-</ul>
-<br><!-- newline -->
+<div align="center">
+  
+  <h1>
+    Hi there, I'm Md Imam Hasan
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
+  </h1>
+  
+  <h3>Learner, Problem Solver, Tech Enthusiast, and Footballer</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/imam346/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://codeforces.com/profile/Imam346"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+    <a href="https://leetcode.com/Imam346/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+    <a href="https://github.com/Imam346/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imam346&label=Profile%20views&color=0e75b6&style=flat" alt="imam346" /> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam346" height="30" width="40" /></a>
-<a href="https://fb.com/imamhasan369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamhasan369" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imam346" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imam346" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imam346" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imam346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imam346" height="30" width="40" /></a>
-</p>
+---
 
+### 🤔 About Me
+💻 I’m a competitive programmer with a near Pupil rank on Codeforces, 2⭐ on CodeChef, and a 1461 rating on LeetCode.
+🧩 I’ve solved 1000+ problems across various online judges, building a strong foundation in data structures, algorithms, and optimization techniques.
 
-![](https://raw.githubusercontent.com/Imam346/cf-stats/main/output/max_rating.svg)
-<br>
-![](https://raw.githubusercontent.com/Imam346/cf-stats/main/output/rating.svg)
-<br>
-<h3 align="left">📊 Competitive Programming</h3>
-<br>
-
-![](https://raw.githubusercontent.com/imam346/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<hr style="width:100%;text-align:left;margin-left:0">
-<h3 align="left">⚡GitHub Stats</h3>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=imam346&theme=algolia&show_icons=true)](https://github.com/imam346)
-
-[![Md Imam Hasan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=imam346&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/imam346)
+---
