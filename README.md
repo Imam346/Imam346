@@ -46,7 +46,7 @@ Here are the primary tools and technologies I work with:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go icon" width="65" height="65" />
       </a>
       <br>Go
     </td>
