@@ -142,3 +142,18 @@ A strong foundation in Data Structures and Algorithms is crucial for a developer
 
 ---
 
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, collaboration opportunities, or just chatting about tech. Feel free to reach out!
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/imam346/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imam346-0A66C2?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:info.imamhasan346@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-info.imamhasan346@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+  </p>
+
+  
+  **[📄 View My Resume](https://drive.google.com/file/d/1zQ15paPDC2_LphhLJAHMgXrgl1_dkqId/view)** 
+
+  
+</div>
