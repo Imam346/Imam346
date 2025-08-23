@@ -95,3 +95,8 @@ Here are the primary tools and technologies I work with:
 ---
 
 ---
+
+### 🔭 What I'm Currently Working On
+-   **DSA & CP Deep Dive:** Exploring a deep dive into DSA and CP techniques—enjoying the process through contests, upsolving, and refining clean C++ templates.
+-   **Community Building:** I run a **[Discord community](https://discord.gg/dBQJrtQJHs)**, where we help each other improve our Data Structures and Algorithms skills.
+
