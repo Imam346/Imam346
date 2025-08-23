@@ -46,7 +46,7 @@ Here are the primary tools and technologies I work with:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go icon" width="65" height="65" />
       </a>
       <br>Go
     </td>
@@ -60,11 +60,7 @@ Here are the primary tools and technologies I work with:
       </a>
       <br>Linux
     </td>
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/Imam346/Imam346/blob/main/img/vs-code.gif" width="48" height="48" alt="jquery" />
-      <br>Vs-Code
-    </td>
+    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -90,5 +86,10 @@ Here are the primary tools and technologies I work with:
     <td align="center" width="96">
         <img src="https://github.com/Imam346/Imam346/blob/main/img/mysql.webp" width="48" height="48" alt="jquery" />
       <br>MySQL
+    </td>
+        <td align="center" width="96">
+        <img src="https://github.com/Imam346/Imam346/blob/main/img/vs-code.gif" width="48" height="48" alt="jquery" />
+      <br>Vs-Code
+    </td>
   </tr>
 </table>
