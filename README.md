@@ -105,6 +105,20 @@ Here are the primary tools and technologies I work with:
 - **🥅 2025 Goals:** To become a pupil on Codeforces
 ---
 
+### 🎯 DSA & Problem Solving
+
+A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
+<p align="center">
+  <a href="https://codeforces.com/profile/Imam346" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Imam346&theme=dark" alt="Imam's Codeforces Stats" width="400"/>
+  </a>
+  <a href="https://leetcode.com/u/Imam346/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Imam346?theme=dark&font=Noto%20Sans&ext=activity" alt="Imam's LeetCode Stats" width="400"/>
+  </a>
+</p>
+
+---
+
 ### 📊 My GitHub Analytics
 <p align="center">
   <a href="https://github.com/Imam346">
@@ -128,14 +142,3 @@ Here are the primary tools and technologies I work with:
 
 ---
 
-### 🎯 DSA & Problem Solving
-
-A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
-<p align="center">
-  <a href="https://codeforces.com/profile/Imam346" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Imam346&theme=dark" alt="Imam's Codeforces Stats" width="400"/>
-  </a>
-  <a href="https://leetcode.com/u/Imam346/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Imam346?theme=dark&font=Noto%20Sans&ext=activity" alt="Imam's LeetCode Stats" width="400"/>
-  </a>
-</p>
