@@ -128,3 +128,22 @@ Here are the primary tools and technologies I work with:
 
 ---
 
+### 🎯 DSA & Problem Solving
+
+A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
+<p align="center">
+  <a href="https://codeforces.com/profile/Imam346" target="_blank">
+    <p align="center">
+      <img
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=Imam346&theme=dark"
+        alt="Codeforces Stats"
+        width="400"
+      />
+    </p>
+  </a>
+  <a href="https://leetcode.com/u/Imam346/" target="_blank">
+    <p align="center">
+      <img src="https://leetcard.jacoblin.cool/Imam346?theme=dark&font=Noto%20Sans&ext=activity" alt="Imam's LeetCode Stats" width="400"/>
+    </p>
+  </a>
+</p>
