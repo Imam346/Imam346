@@ -101,7 +101,5 @@ Here are the primary tools and technologies I work with:
 -   **Community Building:** I run a **[Discord community](https://discord.gg/dBQJrtQJHs)**, where we help each other improve our Data Structures and Algorithms skills.
 
 ### 🌱 My Learning Goals
-<ul>
-  <li> 🥅 2024 Goals: To Solve 500+ problems across various online judges (Done)</li>
-  <li> 🥅 2025 Goals: To become a pupil on Codeforces</li>
-</ul>
+- **🥅 2024 Goals:** To Solve 500+ problems across various online judges (Done)
+- **🥅 2025 Goals:** To become a pupil on Codeforces
