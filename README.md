@@ -10,7 +10,7 @@
   
   <p>
     <a href="https://www.linkedin.com/in/imam346/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://codeforces.com/profile/Imam346"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=black"></a>
+    <a href="https://codeforces.com/profile/Imam346"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-365b73?style=for-the-badge&logo=codeforces&logoColor=black"></a>
     <a href="https://leetcode.com/Imam346/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
     <a href="https://github.com/Imam346/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
