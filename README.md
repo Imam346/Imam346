@@ -85,3 +85,13 @@ Here are the primary tools and technologies I work with:
     </td>
   </tr>
 </table>
+
+
+### **Specializations**
+- **Hardware & IT Support** – PC builds, troubleshooting, OS installs, networking
+- **Problem Solving** – Data Structures & Algorithms (1000+ problems solved)
+- **Database Management** – MySQL, Schema Design, Query Optimisation
+
+---
+
+---
