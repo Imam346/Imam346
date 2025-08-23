@@ -45,9 +45,7 @@ Here are the primary tools and technologies I work with:
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./assets/go/gopher.gif" alt="Go gopher (animated)" width="65" height="65" />
-      </a>
+      <img src="https://github.com/Imam346/Imam346/blob/main/img/go-img.png" width="48" height="48" alt="jquery" />
       <br>Go
     </td>
     <td align="center" width="96">
