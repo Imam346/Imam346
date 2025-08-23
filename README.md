@@ -20,8 +20,7 @@
 ---
 
 ### 🤔 About Me
-I am a competitive programmer with a near Pupil rank on Codeforces, 2⭐ on CodeChef, and a 1461 rating on LeetCode.
-I have solved 1000+ problems across various online judges, building a strong foundation in data structures, algorithms, and optimization techniques.
+I am a competitive programmer with a near Pupil rank on Codeforces, 2⭐ on CodeChef, and a 1461 rating on LeetCode. I have solved 1000+ problems across various online judges, building a strong foundation in data structures, algorithms, and optimization techniques.
 
 ---
 
